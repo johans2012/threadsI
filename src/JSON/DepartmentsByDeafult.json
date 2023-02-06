@@ -1,0 +1,25 @@
+/* 
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ * 
+ * []
+ */
+
+{
+    "name": "name 1",
+    "location": "location",
+    "temperature": "teperature",
+    "habitantes": "1000000",
+    "trends": {
+        
+                "Trend1":
+                    [
+                        {"Name": "Name trend 1", "department":"department name", "citizens": "1000000"},                                                                                
+                        {"Name": "Name trend 1", "department":"department name", "citizens": "1000000"},                                                                                
+                        {"Name": "Name trend 1", "department":"department name", "citizens": "1000000"},                                                                                
+                        {"Name": "Name trend 1", "department":"department name", "citizens": "1000000"}                                                                                
+                                                                                                      
+                    ]
+    }
+    
+}

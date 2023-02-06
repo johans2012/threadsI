@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : cities.xml
+    Created on : November 7, 2021, 1:55 AM
+    Author     : macmini
+    Description:
+        Purpose of the document follows.
+-->
+
+<ciudad>
+    <register id ="0">       
+        <name>
+            Bogota
+        </name>
+        <capital>
+            Bogota-Cundinamarca
+        </capital>
+        <temperature>
+            25            
+        </temperature>
+        <location>
+            Colombia (coords)
+        </location>
+        <date>
+            (dd-MM-yy HH-mm-ss)
+        </date>
+    </register>
+    <register id ="1">       
+        <name>
+            Bogota
+        </name>
+        <capital>
+            Bogota-Cundinamarca
+        </capital>
+        <temperature>
+            25            
+        </temperature>
+        <location>
+            Colombia (coords)
+        </location>
+        <date>
+            (dd-MM-yy HH-mm-ss)
+        </date>
+    </register>
+    <register id ="2">       
+        <name>
+            Bogota
+        </name>
+        <capital>
+            Bogota-Cundinamarca
+        </capital>
+        <temperature>
+            25            
+        </temperature>
+        <location>
+            Colombia (coords)
+        </location>
+        <date>
+            (dd-MM-yy HH-mm-ss)
+        </date>
+    </register>
+    <register id ="3">       
+        <name>
+            Bogota
+        </name>
+        <capital>
+            Bogota-Cundinamarca
+        </capital>
+        <temperature>
+            25            
+        </temperature>
+        <location>
+            Colombia (coords)
+        </location>
+        <date>
+            (dd-MM-yy HH-mm-ss)
+        </date>
+    </register>
+    
+</ciudad>

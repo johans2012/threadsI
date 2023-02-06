@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        Purpose of the document follows. see if some tarupid is here
+-->
+
+<ciudad>
+    <register id ="0">       
+        <name>
+            Bogota
+        </name>
+        <capital>
+            Bogota-Cundinamarca
+        </capital>
+        <temperature>
+            25            
+        </temperature>
+        <location>
+            Colombia (coords)
+        </location>
+        <date>
+            (dd-MM-yy HH-mm-ss)
+        </date>
+    </register>
+    <register id ="1">       
+        <name>
+            Bogota
+        </name>
+        <capital>
+            Bogota-Cundinamarca
+        </capital>
+        <temperature>
+            25            
+        </temperature>
+        <location>
+            Colombia (coords)
+        </location>
+        <date>
+            (dd-MM-yy HH-mm-ss)
+        </date>
+    </register>
+    <register id ="2">       
+        <name>
+            Medellin
+        </name>
+        <capital>
+            -Cundinamarca
+        </capital>
+        <temperature>
+            27            
+        </temperature>
+        <location>
+            Colombia (coords)
+        </location>
+        <date>
+            (dd-MM-yy HH-mm-ss)
+        </date>
+    </register>
+    <register id ="3">       
+        <name>
+            Santa-Marta
+        </name>
+        <capital>
+            -
+        </capital>
+        <temperature>
+            35            
+        </temperature>
+        <location>
+            Colombia (coords)
+        </location>
+        <date>
+            (dd-MM-yy HH-mm-ss)
+        </date>
+    </register>
+    
+</ciudad>

@@ -1,0 +1,13 @@
+Scanner sc = null;        
+        File file = new File("/Users/macmini/Downloads/fileName.txt");
+        
+        try {
+            
+            while(sc.hasNextLine()){
+                String data = sc.nextLine();
+                System.out.println(data);
+            }
+           
+        } catch (Exception io) {
+            System.out.print("Error on load file :" + io);
+        }
