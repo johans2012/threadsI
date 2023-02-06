@@ -7,7 +7,7 @@ package core;
 
 /**
  *
- * @author IEUser
+ * @author JohansCaicedo
  */
 public class TrendService extends Service implements Runnable {
 
